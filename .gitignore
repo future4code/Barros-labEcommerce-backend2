@@ -1,4 +1,4 @@
-.env
 node_modules
+request.rest
 build
-requests.rest
+.env
